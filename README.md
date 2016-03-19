@@ -3,11 +3,11 @@
 
 ## Install
 
-`` git clone https://github.com/cameronpoe/reconsnake``
+` git clone https://github.com/cameronpoe/reconsnake``
 
 ## Usage
 
-`` ./reconsnake.py <domain>`
+` ./reconsnake.py <domain>`
 
 ## Dependencies
 
