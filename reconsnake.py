@@ -38,7 +38,7 @@ def ipv6address():
     try:
         host = sys.argv[1]
         ip = socket.getaddrinfo(host, None, socket.AF_INET6)
-        print "IPV6 address: " + ip
+        print "IPV6 address: " + str(ip)
     except socket.gaierror, err:
         print "Error or no IPV6 address found! \n"
     except NameError:
