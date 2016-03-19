@@ -8,6 +8,7 @@
 ## Usage
 
 ` ./reconsnake.py <domain>` or ` ./reconsnake.py <domain> >report.txt`
+
 Recommend ` ./reconsnake.py <domain> >report.txt` Adds all information to .txt file
 
 ## Dependencies
