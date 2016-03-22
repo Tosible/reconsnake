@@ -53,7 +53,6 @@ def url():
         sys.exit()
     except IndexError:
         sys.exit()
-
 def domain():
     try:
         domain = sys.argv[1]
@@ -62,7 +61,6 @@ def domain():
         sys.exit()
     except IndexError:
         sys.exit()
-
 def main():
     domain()
     url()
