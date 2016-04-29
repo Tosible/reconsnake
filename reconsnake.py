@@ -67,4 +67,5 @@ def main():
     ipv4address()
     ipv6address()
     who()
-main()
+if __name__ == "__main__":
+    main()
