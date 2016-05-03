@@ -4,6 +4,7 @@
 ## Install
 
 ` git clone https://github.com/cameronpoe/reconsnake`
+` cd reconsnake`
 
 ## Usage
 
