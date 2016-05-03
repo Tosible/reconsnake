@@ -3,7 +3,7 @@
 
 ## Install
 
-` git clone https://github.com/cameronpoe/reconsnake`
+` git clone https://github.com/cameronpoe/reconsnake \n`
 ` cd reconsnake`
 
 ## Usage
