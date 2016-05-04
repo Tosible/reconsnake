@@ -1,8 +1,13 @@
 #!/usr/bin/python
 # Copyright (c) Cameron Poe 2016
 
-import socket, sys, whois
+import socket, sys
 
+try:
+    import whois
+except ImportError:
+    print ("No whois! Closing...")
+    sys.exit()
 print """
 +-+-+-+-+-+-+-+-+-+-+
 |R|e|c|o|n|S|n|a|k|e|
