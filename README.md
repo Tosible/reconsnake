@@ -4,7 +4,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/xpoe/reconsnake
+git clone https://github.com/cameronpoe/reconsnake
 cd reconsnake
 ```
 
